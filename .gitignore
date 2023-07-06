@@ -1,0 +1,4 @@
+.vscode/settings.json
+dist/
+build/
+*.egg-info/
